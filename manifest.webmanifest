@@ -1,0 +1,19 @@
+{
+  "name": "العمدة لإدارة المحل",
+  "short_name": "العمدة",
+  "description": "نظام إدارة سوبر ماركت كامل: بيع نقدي وآجل، ديون العملاء، مخزون، خزينة، تقارير — يعمل بدون إنترنت",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#12141c",
+  "theme_color": "#12141c",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["business", "productivity", "finance"],
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
